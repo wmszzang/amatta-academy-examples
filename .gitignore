@@ -1,0 +1,11 @@
+profile.csv
+*.png
+*.mp4
+*.gif
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+frames/
+__pycache__/
