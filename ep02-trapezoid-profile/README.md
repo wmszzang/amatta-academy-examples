@@ -57,9 +57,11 @@ g++ -std=c++11 trapezoid_profile.cpp -o trapezoid
 trapezoid.exe
 ```
 
-## 4) 그래프 그리기 (언어 무관 — 공용 시각화)
+## 4) 그래프 그리기 — Python판과 C++판 모두 제공
 
-계산 프로그램이 만든 `profile.csv`가 있는 폴더에서:
+계산 프로그램이 만든 `profile.csv`가 있는 폴더에서, 손에 익은 쪽을 고르세요.
+
+**Python (matplotlib)**:
 
 ```
 pip install matplotlib
@@ -69,6 +71,16 @@ python ..\python\visualize.py --animate      # 그려지는 애니메이션 → 
 
 > `python` 폴더에서 실행했다면 `python visualize.py` 처럼 경로 없이 실행하면 됩니다.
 > 영상(EP.2)에 삽입된 애니메이션은 정확히 이 스크립트(`--frames` 모드)의 산출물입니다.
+
+**C++ (의존성 없음 — SVG 직접 쓰기)**:
+
+```
+cd cpp
+cl /EHsc plot_svg.cpp        (또는 g++ -std=c++11 plot_svg.cpp -o plot_svg)
+plot_svg.exe                 → profile.svg 생성, 브라우저로 열면 그래프가 보입니다
+```
+
+> 시험장이라면 같은 `profile.csv`를 **Excel로 열어 꺾은선 차트**를 그려도 됩니다(제출물로도 정석).
 
 ## 직접 실험해 보기
 
