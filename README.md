@@ -6,14 +6,15 @@
 - 언어는 실기 시험에서 공식적으로 사용 가능한 **C · C++ · Python** 세 가지만 제공합니다.
   (시험장 제공 환경: Windows + Visual Studio · PyCharm · Excel)
 - 에피소드마다 폴더 하나씩, 폴더 안 `README.md`에 **설치부터 실행·시각화까지** 순서대로 적혀 있습니다.
-- 계산 프로그램은 어떤 언어로 실행해도 같은 `profile.csv`를 만들고,
-  그래프는 공용 파이썬 스크립트(`visualize.py`) 하나로 그립니다 — 영상 속 애니메이션도 이 스크립트의 산출물입니다.
+- 계산 프로그램은 어떤 언어로 실행해도 같은 CSV를 만들고,
+  그래프는 공용 파이썬 스크립트(`visualize.py`) 또는 C++ SVG 스크립트(`plot_svg.cpp`)로 그립니다 — 영상 속 애니메이션도 `visualize.py`의 산출물입니다.
 
 ## 에피소드
 
 | EP | 주제 | 폴더 | 영상 |
 |---|---|---|---|
-| 2 | 가속–등속–감속, 사다리꼴 속도 프로파일 | [`ep02-trapezoid-profile/`](ep02-trapezoid-profile/) | (강의 설명란 링크 참고) |
+| 2 | 가속–등속–감속, 사다리꼴 속도 프로파일 | [`ep02-trapezoid-profile/`](ep02-trapezoid-profile/) | <https://youtu.be/Qwos-UAw1Kg> |
+| 3 | 부드러운 궤적 — 3차·5차 다항식과 S-커브 | [`ep03-polynomial-traj/`](ep03-polynomial-traj/) | (강의 설명란 링크 참고) |
 
 ## 함께 보기
 
