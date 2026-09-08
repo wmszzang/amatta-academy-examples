@@ -1,6 +1,0 @@
-ang_err(3.0,-3.0)=-0.2832
-ang_err(0.1,-0.1)=0.2000
-circ_mean([170,-170])=180.0000
-circ_mean([10,-10,350])=-3.3637
-wrap(359deg)=-1.0000deg
-orth_check(30)=identity(max_err<1e-12)
