@@ -16,6 +16,7 @@
 | 2 | 가속–등속–감속, 사다리꼴 속도 프로파일 | [`ep02-trapezoid-profile/`](ep02-trapezoid-profile/) | <https://youtu.be/Qwos-UAw1Kg> |
 | 3 | 부드러운 궤적 — 3차·5차 다항식과 S-커브 | [`ep03-polynomial-traj/`](ep03-polynomial-traj/) | <https://youtu.be/3y5KqFdbla4> |
 | 4 | 지문 읽고 계획 고르기 — 사다리꼴 · 다항식 · S-커브 끝내기 | [`ep04-motion-wrapup/`](ep04-motion-wrapup/) | <https://youtu.be/fGxWcXUkPFw> |
+| 5 | 좌표는 어디서 읽는가 — 프레임 · 2D 회전 · 강체 변환 | [`ep05-frames-2d-rotation/`](ep05-frames-2d-rotation/) | (발행 후 기입) |
 
 ## 함께 보기
 
