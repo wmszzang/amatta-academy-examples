@@ -18,6 +18,7 @@
 | 4 | 지문 읽고 계획 고르기 — 사다리꼴 · 다항식 · S-커브 끝내기 | [`ep04-motion-wrapup/`](ep04-motion-wrapup/) | <https://youtu.be/fGxWcXUkPFw> |
 | 5 | 좌표는 어디서 읽는가 — 프레임 · 2D 회전 · 강체 변환 | [`ep05-frames-2d-rotation/`](ep05-frames-2d-rotation/) | (발행 후 기입) |
 | 6 | 회전과 이동을 행렬 하나로 — 동차변환 체인·역변환·4×4 | [`ep06-homogeneous-chain/`](ep06-homogeneous-chain/) | [YouTube](https://youtu.be/aHfGnSfYwoo) |
+| 8 | DH 파라미터와 행렬 순기구학 — 팔 끝 좌표·관절각 스윕 | [`ep08-dh-fk-matrix/`](ep08-dh-fk-matrix/) | [YouTube](https://youtu.be/wDLIkh4Rk58) |
 
 ## 함께 보기
 
