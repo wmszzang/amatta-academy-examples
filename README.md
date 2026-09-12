@@ -20,6 +20,7 @@
 | 6 | 회전과 이동을 행렬 하나로 — 동차변환 체인·역변환·4×4 | [`ep06-homogeneous-chain/`](ep06-homogeneous-chain/) | [YouTube](https://youtu.be/aHfGnSfYwoo) |
 | 7 | 관절각으로 팔 끝 좌표 구하기 — 2·3링크 순기구학 | [`ep07-fk-2link-3link/`](ep07-fk-2link-3link/) | [YouTube](https://youtu.be/ghgZjtKZz60) |
 | 8 | DH 파라미터와 행렬 순기구학 — 팔 끝 좌표·관절각 스윕 | [`ep08-dh-fk-matrix/`](ep08-dh-fk-matrix/) | [YouTube](https://youtu.be/wDLIkh4Rk58) |
+| 9 | 지문을 보고 변환이냐 순기구학이냐 — 좌표·FK 끝내기 | [`ep09-transform-fk-wrapup/`](ep09-transform-fk-wrapup/) | [YouTube](https://youtu.be/qdr_7sLRnVU) |
 
 ## 함께 보기
 
