@@ -1,0 +1,10 @@
+case,theta1,theta2,unit,status
+222,8.0312,51.3178,deg,OK
+242-down,0.0432,1.1864,rad,OK
+242-up,1.0376,-1.1864,rad,OK
+outer,,,,UNREACHABLE
+inner,,,,UNREACHABLE
+origin-equal,,,,CONTINUUM
+outer-boundary-up,0.0000,0.0000,rad,OK
+inner-boundary-up,0.0000,-3.1416,rad,OK
+computed-boundary-up,60.0000,0.0000,deg,OK

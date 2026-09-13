@@ -22,6 +22,8 @@
 | 8 | DH 파라미터와 행렬 순기구학 — 팔 끝 좌표·관절각 스윕 | [`ep08-dh-fk-matrix/`](ep08-dh-fk-matrix/) | [YouTube](https://youtu.be/wDLIkh4Rk58) |
 | 9 | 지문을 보고 변환이냐 순기구학이냐 — 좌표·FK 끝내기 | [`ep09-transform-fk-wrapup/`](ep09-transform-fk-wrapup/) | [YouTube](https://youtu.be/qdr_7sLRnVU) |
 
+| 10 | 해석적 역기구학 — 두 해·도달 불가·해 선택 | [`ep10-ik-analytic/`](ep10-ik-analytic/) | [YouTube](https://youtu.be/xrqNRSIT354) |
+
 ## 함께 보기
 
 - 🤖 실기 연습장 (코딩 문제 99제 · AI 채점 · 기대 그래프 제공): <https://www.techrraforming.com/practical?cert=RobotSoftware>
