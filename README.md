@@ -23,6 +23,7 @@
 | 9 | 지문을 보고 변환이냐 순기구학이냐 — 좌표·FK 끝내기 | [`ep09-transform-fk-wrapup/`](ep09-transform-fk-wrapup/) | [YouTube](https://youtu.be/qdr_7sLRnVU) |
 
 | 10 | 해석적 역기구학 — 두 해·도달 불가·해 선택 | [`ep10-ik-analytic/`](ep10-ik-analytic/) | [YouTube](https://youtu.be/xrqNRSIT354) |
+| 11 | 자코비안과 특이점 — 관절속도에서 손끝 속도로 | [`ep11-jacobian-singularity/`](ep11-jacobian-singularity/) | 제작 중 |
 
 ## 함께 보기
 
