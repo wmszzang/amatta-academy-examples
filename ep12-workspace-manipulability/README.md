@@ -2,7 +2,7 @@
 
 손끝이 목표에 닿는지와 그 자세가 요구조건을 만족하는지를 나누어 검사합니다. 길이 2와 1.5인 평면 두 링크 팔을 사용하며, 길이의 단위는 입력과 같은 공통 단위입니다.
 
-[강의 페이지](https://www.techrraforming.com/academy/cert-prac-workspace-manipulability) · [실기 연습장](https://www.techrraforming.com/practical?cert=RobotSoftware)
+[YouTube](https://youtu.be/QQ_1Bz3xvc0) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-workspace-manipulability) · [실기 연습장](https://www.techrraforming.com/practical?cert=RobotSoftware)
 
 ## 입력과 기대값
 
