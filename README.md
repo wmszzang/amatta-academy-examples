@@ -25,7 +25,7 @@
 | 10 | 해석적 역기구학 — 두 해·도달 불가·해 선택 | [`ep10-ik-analytic/`](ep10-ik-analytic/) | [YouTube](https://youtu.be/xrqNRSIT354) |
 | 11 | 자코비안과 특이점 — 관절속도에서 손끝 속도로 | [`ep11-jacobian-singularity/`](ep11-jacobian-singularity/) | [영상 보기](https://youtu.be/dXPricg-s_k) |
 | 12 | 작업공간과 조작성 — 닿아도 탈락하는 이유 | [`ep12-workspace-manipulability/`](ep12-workspace-manipulability/) | [YouTube](https://youtu.be/QQ_1Bz3xvc0) |
-| 13 | 수치 역기구학과 정역학 — 뉴턴-랩슨 · DLS · τ=JᵀF | [`ep13-numeric-ik-statics/`](ep13-numeric-ik-statics/) | (업로드 후 기입) |
+| 13 | 수치 역기구학과 정역학 — 뉴턴-랩슨 · DLS · τ=JᵀF | [`ep13-numeric-ik-statics/`](ep13-numeric-ik-statics/) | [YouTube](https://youtu.be/bc2OHYpzl6U) |
 
 ## 함께 보기
 
