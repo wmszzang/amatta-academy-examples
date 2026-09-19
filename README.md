@@ -26,6 +26,7 @@
 | 11 | 자코비안과 특이점 — 관절속도에서 손끝 속도로 | [`ep11-jacobian-singularity/`](ep11-jacobian-singularity/) | [영상 보기](https://youtu.be/dXPricg-s_k) |
 | 12 | 작업공간과 조작성 — 닿아도 탈락하는 이유 | [`ep12-workspace-manipulability/`](ep12-workspace-manipulability/) | [YouTube](https://youtu.be/QQ_1Bz3xvc0) |
 | 13 | 수치 역기구학과 정역학 — 뉴턴-랩슨 · DLS · τ=JᵀF | [`ep13-numeric-ik-statics/`](ep13-numeric-ik-statics/) | [YouTube](https://youtu.be/bc2OHYpzl6U) |
+| 14 | 해석해냐 수치해냐, 속도냐 힘이냐 — 역기구학·자코비안 끝내기 | [`ep14-ik-jacobian-wrapup/`](ep14-ik-jacobian-wrapup/) | [YouTube](https://youtu.be/l2jh9PbPmzo) |
 
 ## 함께 보기
 
