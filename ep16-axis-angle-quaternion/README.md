@@ -77,6 +77,7 @@ PNG는 960×540입니다. 양의 축 경로는 0→60도 정지→360도, 반대
 
 해밀턴 곱·SLERP·측지 거리는 EP.17 범위이며 이 예제에는 구현하지 않았습니다.
 
+- [영상 강의](https://youtu.be/63EIwqBGO4Q)
 - [강의 페이지](https://www.techrraforming.com/academy/cert-prac-axis-angle-quaternion)
 - [실기 연습장](https://www.techrraforming.com/practical?cert=RobotSoftware)
 - [Amatta Academy](https://www.youtube.com/@amatta-techrraforming)
