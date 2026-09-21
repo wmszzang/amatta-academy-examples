@@ -28,6 +28,7 @@
 | 13 | 수치 역기구학과 정역학 — 뉴턴-랩슨 · DLS · τ=JᵀF | [`ep13-numeric-ik-statics/`](ep13-numeric-ik-statics/) | [YouTube](https://youtu.be/bc2OHYpzl6U) |
 | 14 | 해석해냐 수치해냐, 속도냐 힘이냐 — 역기구학·자코비안 끝내기 | [`ep14-ik-jacobian-wrapup/`](ep14-ik-jacobian-wrapup/) | [YouTube](https://youtu.be/l2jh9PbPmzo) |
 | 15 | 3차원 자세를 각도 셋으로 — 오일러각 ZYX와 짐벌락 | [`ep15-euler-gimbal/`](ep15-euler-gimbal/) | [YouTube](https://youtu.be/7qo6uNENz-o) |
+| 16 | 축 하나와 각도 하나로 — 축-각도·로드리게스·쿼터니언 | [`ep16-axis-angle-quaternion/`](ep16-axis-angle-quaternion/) | 영상 업로드 후 연결 |
 
 ## 함께 보기
 
