@@ -30,6 +30,7 @@
 | 15 | 3차원 자세를 각도 셋으로 — 오일러각 ZYX와 짐벌락 | [`ep15-euler-gimbal/`](ep15-euler-gimbal/) | [YouTube](https://youtu.be/7qo6uNENz-o) |
 | 16 | 축 하나와 각도 하나로 — 축-각도·로드리게스·쿼터니언 | [`ep16-axis-angle-quaternion/`](ep16-axis-angle-quaternion/) | [YouTube](https://youtu.be/63EIwqBGO4Q) |
 | 17 | 두 자세를 곱하고 잇는다 — 해밀턴 곱·SLERP·측지 거리 | [`ep17-quaternion-slerp/`](ep17-quaternion-slerp/) | [YouTube](https://youtu.be/gH4PF2M9ya4) |
+| 18 | 이 지문은 어떤 회전 표현을 쓰라는 말인가 — 3D 회전 끝내기 | [`ep18-rotation-wrapup/`](ep18-rotation-wrapup/) | [YouTube](https://youtu.be/q8B9u2OVFHM) |
 
 ## 함께 보기
 
