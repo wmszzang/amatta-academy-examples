@@ -32,6 +32,8 @@
 | 17 | 두 자세를 곱하고 잇는다 — 해밀턴 곱·SLERP·측지 거리 | [`ep17-quaternion-slerp/`](ep17-quaternion-slerp/) | [YouTube](https://youtu.be/gH4PF2M9ya4) |
 | 18 | 이 지문은 어떤 회전 표현을 쓰라는 말인가 — 3D 회전 끝내기 | [`ep18-rotation-wrapup/`](ep18-rotation-wrapup/) | [YouTube](https://youtu.be/q8B9u2OVFHM) |
 
+| 19 | 관절공간 vs 직교공간 — 직선·원호와 매 점 역기구학 | [`ep19-cartesian-path-ik/`](ep19-cartesian-path-ik/) | [영상](https://youtu.be/q_cMPYHZuGA) |
+
 ## 함께 보기
 
 - 🤖 실기 연습장 (코딩 문제 99제 · AI 채점 · 기대 그래프 제공): <https://www.techrraforming.com/practical?cert=RobotSoftware>
