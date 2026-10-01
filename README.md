@@ -34,6 +34,8 @@
 
 | 19 | 관절공간 vs 직교공간 — 직선·원호와 매 점 역기구학 | [`ep19-cartesian-path-ik/`](ep19-cartesian-path-ik/) | [영상](https://youtu.be/q_cMPYHZuGA) |
 
+| 20 | 바퀴 로봇 기구학 — 차동구동·메카넘·아커만·바이시클 | [`ep20-mobile-kinematics/`](ep20-mobile-kinematics/) | [YouTube](https://youtu.be/o_wsRncPKvI) |
+
 ## 함께 보기
 
 - 🤖 실기 연습장 (코딩 문제 99제 · AI 채점 · 기대 그래프 제공): <https://www.techrraforming.com/practical?cert=RobotSoftware>
