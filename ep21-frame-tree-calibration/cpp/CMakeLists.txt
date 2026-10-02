@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(frame_tree_calibration LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 11)
+foreach(name frame_chain icp_step pinhole stereo plot_svg)
+  add_executable(${name} ${name}.cpp)
+endforeach()

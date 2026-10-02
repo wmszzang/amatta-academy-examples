@@ -36,6 +36,8 @@
 
 | 20 | 바퀴 로봇 기구학 — 차동구동·메카넘·아커만·바이시클 | [`ep20-mobile-kinematics/`](ep20-mobile-kinematics/) | [YouTube](https://youtu.be/o_wsRncPKvI) |
 
+| 21 | 프레임 트리·기구학 캘리브레이션·카메라 좌표 | [`ep21-frame-tree-calibration/`](ep21-frame-tree-calibration/) | [강의 페이지](https://www.techrraforming.com/academy/cert-prac-frame-tree-calibration) |
+
 ## 함께 보기
 
 - 🤖 실기 연습장 (코딩 문제 99제 · AI 채점 · 기대 그래프 제공): <https://www.techrraforming.com/practical?cert=RobotSoftware>
