@@ -1,6 +1,6 @@
 # EP.21 프레임 트리·기구학 캘리브레이션·카메라 좌표
 
-영상: 발행 후 연결 · [강의 노트](https://www.techrraforming.com/academy/cert-prac-frame-tree-calibration)
+영상: [YouTube 공개 강의](https://youtu.be/RO7qEnu4w-A) · [강의 노트](https://www.techrraforming.com/academy/cert-prac-frame-tree-calibration)
 
 주어진 변환을 적용하는 문제(체인·핀홀·스테레오)와 관측으로 값을 추정하는 문제(관절 오프셋·강체 정합)를 구분합니다. 점 좌표와 변환은 열벡터 기준이며 `T_a_b`는 b 좌표를 a 좌표로 바꿉니다.
 
