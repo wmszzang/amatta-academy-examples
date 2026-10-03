@@ -38,6 +38,8 @@
 
 | 21 | 프레임 트리·기구학 캘리브레이션·카메라 좌표 | [`ep21-frame-tree-calibration/`](ep21-frame-tree-calibration/) | [YouTube](https://youtu.be/RO7qEnu4w-A) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-frame-tree-calibration) |
 
+| 22 | 기구학 지문 한 줄에서 풀이 고르기 — 단원 종합 | [`ep22-kinematics-wrapup/`](ep22-kinematics-wrapup/) | 영상 제작 중 |
+
 ## 함께 보기
 
 - 🤖 실기 연습장 (코딩 문제 99제 · AI 채점 · 기대 그래프 제공): <https://www.techrraforming.com/practical?cert=RobotSoftware>
