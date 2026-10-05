@@ -40,6 +40,8 @@
 
 | 22 | 기구학 지문 한 줄에서 풀이 고르기 — 단원 종합 | [`ep22-kinematics-wrapup/`](ep22-kinematics-wrapup/) | [YouTube](https://youtu.be/peDViaXbfMg) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-kinematics-wrapup) |
 
+| 23 | 격자 길찾기와 안전거리 — 다익스트라·A* | [`ep23-path-planning/`](ep23-path-planning/) | [YouTube](https://youtu.be/qPPd85kKdp0) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-path-planning) |
+
 ## 함께 보기
 
 - 🤖 실기 연습장 (코딩 문제 99제 · AI 채점 · 기대 그래프 제공): <https://www.techrraforming.com/practical?cert=RobotSoftware>
