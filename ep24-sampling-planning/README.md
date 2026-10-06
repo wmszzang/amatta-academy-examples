@@ -1,5 +1,7 @@
 # EP.24 · RRT/RRT*·DWA·커버리지
 
+[영상 강의](https://youtu.be/i3GhAJKAkJA) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-sampling-planning)
+
 [강의 페이지](https://www.techrraforming.com/academy/cert-prac-sampling-planning)에서 경로 점열, 실행할 속도, 작업 방문 목록의 차이를 설명합니다. 실제 로봇에 명령을 보내는 프로그램이 아닌 교육용 계산 예제입니다.
 
 ## 입력과 기대 결과
