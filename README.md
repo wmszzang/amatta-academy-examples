@@ -43,6 +43,7 @@
 | 23 | 격자 길찾기와 안전거리 — 다익스트라·A* | [`ep23-path-planning/`](ep23-path-planning/) | [YouTube](https://youtu.be/qPPd85kKdp0) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-path-planning) |
 
 | 24 | RRT·DWA로 길 찾기와 장애물 회피 | [`ep24-sampling-planning/`](ep24-sampling-planning/) | [YouTube](https://youtu.be/i3GhAJKAkJA) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-sampling-planning) |
+| 25 | 경로계획 끝내기 — 지문으로 풀이 고르기 | [`ep25-path-wrapup/`](ep25-path-wrapup/) | [강의 페이지](https://www.techrraforming.com/academy/cert-prac-path-wrapup) |
 
 ## 함께 보기
 
