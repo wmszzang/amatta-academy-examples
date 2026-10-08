@@ -44,6 +44,7 @@
 
 | 24 | RRT·DWA로 길 찾기와 장애물 회피 | [`ep24-sampling-planning/`](ep24-sampling-planning/) | [YouTube](https://youtu.be/i3GhAJKAkJA) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-sampling-planning) |
 | 25 | 경로계획 끝내기 — 지문으로 풀이 고르기 | [`ep25-path-wrapup/`](ep25-path-wrapup/) | [YouTube](https://youtu.be/ciQo10IPdDc) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-path-wrapup) |
+| 26 | PID 제어와 안티와인드업 | [`ep26-pid/`](ep26-pid/) | [강의 페이지](https://www.techrraforming.com/academy/cert-prac-pid) |
 
 ## 함께 보기
 
