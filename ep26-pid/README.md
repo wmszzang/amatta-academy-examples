@@ -1,6 +1,6 @@
 ﻿# EP.26 — PID 제어와 안티와인드업
 
-[강의 페이지](https://www.techrraforming.com/academy/cert-prac-pid)
+[YouTube](https://youtu.be/vol2uSr1cQA) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-pid)
 
 사이트 학습 문제 #229와 #500의 실행 가능한 예제입니다. 실제 기출문제라고 주장하지 않습니다. 제어입력은 #229의 단순 위치 모형에서 위치 변화율이며 실제 모터의 전압이나 힘이 아닙니다.
 
