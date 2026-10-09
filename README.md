@@ -46,6 +46,8 @@
 | 25 | 경로계획 끝내기 — 지문으로 풀이 고르기 | [`ep25-path-wrapup/`](ep25-path-wrapup/) | [YouTube](https://youtu.be/ciQo10IPdDc) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-path-wrapup) |
 | 26 | PID 제어와 안티와인드업 | [`ep26-pid/`](ep26-pid/) | [YouTube](https://youtu.be/vol2uSr1cQA) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-pid) |
 
+| 27 | 1차원 칼만 필터 — 예측과 측정을 얼마나 섞을까 | [`ep27-kalman-1d/`](ep27-kalman-1d/) | [강의 페이지](https://www.techrraforming.com/academy/cert-prac-kalman-1d) |
+
 ## 함께 보기
 
 - 🤖 실기 연습장 (코딩 문제 99제 · AI 채점 · 기대 그래프 제공): <https://www.techrraforming.com/practical?cert=RobotSoftware>
