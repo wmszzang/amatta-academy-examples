@@ -39,7 +39,7 @@ def draw(out, progress=1.):
 def draw_frame(out,progress):
     rows=results()['plant'][1][:max(1,round(200*progress))]
     fig=plt.figure(figsize=(16,9),facecolor='#f4f6fb')
-    ax=fig.add_axes([.15,.32,.70,.42])
+    ax=fig.add_axes([.15,.35,.70,.39])
     ax.plot([0]+[r[3] for r in rows],[0]+[r[4] for r in rows],color='#4f46e5',lw=3)
     ax.axhline(1,color='#e11d48',ls='--')
     ax.set(xlim=(0,10),ylim=(0,1.1))

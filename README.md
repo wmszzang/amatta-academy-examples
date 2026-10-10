@@ -48,7 +48,7 @@
 
 | 27 | 1차원 칼만 필터 — 예측과 측정을 얼마나 섞을까 | [`ep27-kalman-1d/`](ep27-kalman-1d/) | [영상](https://youtu.be/9kBG4TL7uI0) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-kalman-1d) |
 
-| 28 | PID·칼만·상보 필터 — 지문으로 고르는 법 | [`ep28-control-wrapup/`](ep28-control-wrapup/) | [강의 페이지](https://www.techrraforming.com/academy/cert-prac-control-wrapup) |
+| 28 | PID·칼만·상보 필터 — 지문으로 고르는 법 | [`ep28-control-wrapup/`](ep28-control-wrapup/) | [YouTube](https://youtu.be/sSR224E5awI) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-control-wrapup) |
 
 ## 함께 보기
 
