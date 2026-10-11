@@ -50,6 +50,8 @@
 
 | 28 | PID·칼만·상보 필터 — 지문으로 고르는 법 | [`ep28-control-wrapup/`](ep28-control-wrapup/) | [YouTube](https://youtu.be/sSR224E5awI) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-control-wrapup) |
 
+| 29 | 종합 모의 — 궤적 그래프와 좌표 변환 | [`ep29-mock-walkthrough/`](ep29-mock-walkthrough/) | [YouTube](https://youtu.be/6ss8HEUdZIQ) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-mock-walkthrough) |
+
 ## 함께 보기
 
 - 🤖 실기 연습장 (코딩 문제 99제 · AI 채점 · 기대 그래프 제공): <https://www.techrraforming.com/practical?cert=RobotSoftware>
