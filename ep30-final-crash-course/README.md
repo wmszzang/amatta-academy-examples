@@ -3,6 +3,7 @@
 지문의 신호어로 계산을 고르고, 같은 계산 결과에서 표와 그림을 만드는 마지막 특강의 예제입니다. 새 문제 수치 대신 기존 강의의 대표 입력을 재사용합니다.
 
 - [강의 페이지](https://www.techrraforming.com/academy/cert-prac-final-crash-course)
+- [YouTube 강의](https://youtu.be/EdbKtjrQPIk)
 - [실기 연습장](https://www.techrraforming.com/practical?cert=RobotSoftware)
 
 ## 일곱 유형 판별표

@@ -52,7 +52,7 @@
 
 | 29 | 종합 모의 — 궤적 그래프와 좌표 변환 | [`ep29-mock-walkthrough/`](ep29-mock-walkthrough/) | [YouTube](https://youtu.be/6ss8HEUdZIQ) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-mock-walkthrough) |
 
-| 30 | 실기 D-10 — 7유형과 제출 검산 | [`ep30-final-crash-course/`](ep30-final-crash-course/) | [강의 페이지](https://www.techrraforming.com/academy/cert-prac-final-crash-course) |
+| 30 | 실기 D-10 — 7유형과 제출 검산 | [`ep30-final-crash-course/`](ep30-final-crash-course/) | [영상](https://youtu.be/EdbKtjrQPIk) · [강의 페이지](https://www.techrraforming.com/academy/cert-prac-final-crash-course) |
 
 ## 함께 보기
 
