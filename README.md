@@ -3,8 +3,8 @@
 [Amatta Academy 유튜브 채널](https://www.youtube.com/@amatta-techrraforming)의
 **자격증 · 로봇소프트웨어개발기사 · 실기** 강의 시리즈에서 다룬 문제들의 **실행 가능한 예제 답안**입니다.
 
-- 언어는 실기 시험에서 공식적으로 사용 가능한 **C · C++ · Python** 세 가지만 제공합니다.
-  (시험장 제공 환경: Windows + Visual Studio · PyCharm · Excel)
+- 언어는 공식 안내가 예로 든 **C · C++ · Python** 세 가지로 제공합니다.
+  (2026년 Q-net 안내 기준 시험장 시설: Windows 10 이상 + Visual Studio 2015 이상·PyCharm 등 + Excel 2016 이상 — Excel은 그래프 출력에만 쓰고 데이터는 프로그램으로 만듭니다. 개인 PC는 지참할 수 없습니다.)
 - 에피소드마다 폴더 하나씩, 폴더 안 `README.md`에 **설치부터 실행·시각화까지** 순서대로 적혀 있습니다.
 - 계산 프로그램은 어떤 언어로 실행해도 같은 CSV를 만들고,
   그래프는 공용 파이썬 스크립트(`visualize.py`) 또는 C++ SVG 스크립트(`plot_svg.cpp`)로 그립니다 — 영상 속 애니메이션도 `visualize.py`의 산출물입니다.
